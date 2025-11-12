@@ -16,10 +16,8 @@ This script is **not** an official API. Scraping LinkedIn is against their Terms
 
 **1. Install Dependencies:**
    You must have Python 3 installed.
-   ```bash
-   pip install -r requirements.txt
 
-2. Get Your LinkedIn Cookie: This script requires you to be authenticated.
+**2. Get Your LinkedIn Cookie: This script requires you to be authenticated.**
 
 Log in to LinkedIn in your browser (e.g., Chrome).
 Open Developer Tools (F12).
