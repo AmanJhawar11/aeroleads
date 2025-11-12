@@ -26,4 +26,6 @@ This script is **not** an official API. Scraping LinkedIn is against their Terms
 * Click on any request to linkedin.com (you may need to refresh the page).
 * In the "Request Headers" section, find the cookie: field.
 * Copy the entire value of the cookie.
-* paste this cookie in scraper.py (where its return PASTE_YOUR_LINKEDIN_COOKIES_HERE)
+* Paste this cookie in scraper.py (where its return PASTE_YOUR_LINKEDIN_COOKIES_HERE)
+* Run the code in terminal
+* After execution you will find a file leads.csv with the Profile Link, Name, Designation, Location of the person working in that company
