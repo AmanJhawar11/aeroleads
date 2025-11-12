@@ -19,11 +19,11 @@ This script is **not** an official API. Scraping LinkedIn is against their Terms
 
 **2. Get Your LinkedIn Cookie: This script requires you to be authenticated.**
 
-Log in to LinkedIn in your browser (e.g., Chrome).
-Open Developer Tools (F12).
-Go to the Network tab.
-In search box type graphl.
-Click on any request to linkedin.com (you may need to refresh the page).
-In the "Request Headers" section, find the cookie: field.
-Copy the entire value of the cookie.
-paste this cookie in scraper.py (where its return PASTE_YOUR_LINKEDIN_COOKIES_HERE)
+* Log in to LinkedIn in your browser (e.g., Chrome).
+* Open Developer Tools (F12).
+* Go to the Network tab.
+* In search box type graphl.
+* Click on any request to linkedin.com (you may need to refresh the page).
+* In the "Request Headers" section, find the cookie: field.
+* Copy the entire value of the cookie.
+* paste this cookie in scraper.py (where its return PASTE_YOUR_LINKEDIN_COOKIES_HERE)
